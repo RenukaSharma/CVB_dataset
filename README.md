@@ -7,4 +7,4 @@ The dataset is available at https://doi.org/10.25919/3g3t-p068.
 
 The paper is available at https://arxiv.org/abs/2305.16555.
 
-The poster is available at https://anu365-my.sharepoint.com/personal/u4475570_anu_edu_au/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu4475570%5Fanu%5Fedu%5Fau%2FDocuments%2FANU%20and%20CSIRO%2FCVPR%20Poster%2FPaper%5Fid%5F9%5FCVB%5FA%5FVideo%5FDataset%5Fof%5FCattle%5FVisual%5FBehaviors%2Epdf&parent=%2Fpersonal%2Fu4475570%5Fanu%5Fedu%5Fau%2FDocuments%2FANU%20and%20CSIRO%2FCVPR%20Poster&ct=1685409823280&or=Teams%2DHL&ga=1&LOF=1.
+The poster is available at [here](https://drive.google.com/file/d/1CA6VxUeEhWeLB_nfo01EfzhcKmCXOHUd/view?usp=drive_link).
